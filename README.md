@@ -16,7 +16,7 @@ The challenges encountered within this analysis were related to the lack of more
 
 Due to recent changes caused by the pandemic, more recent data would provide a better understanding of the impact it made on the entertainment industry. The variety of countries involved would indicate the cultural support for theater plays, as Great Britain and United States are known for their Broadway shows, a campaign based is these countries might have a greater chance of being successful.
 
-The lack of demographics data can be an extra challenge for this analysis, reports from the Broadway League reveals that > “the demographic of the Broadway audience 2018-2019 indicates that the average age of the theatergoer in North America is in between 40 to 45 years older in the last two decades”.[1]
+The lack of demographics data can be an extra challenge for this analysis, reports from the Broadway League reveals that > “the demographic of the Broadway audience 2018-2019 indicates that the average age of the theatergoer in North America is in between 40 to 45 years older in the last two decades”[1].
 Having access to this information could be able a touchstone for the campaign and a possible deal-breaker for a potential sponsorship. 
 
 [1] Research Reports | The Broadway League. (n.d.). (https://www.broadwayleague.com/research/research-reports/)
@@ -26,14 +26,6 @@ Having access to this information could be able a touchstone for the campaign an
 The analysis shows that the number of successful campaigns for theater are higher when launched in April, May and June when compared with the remaining months of the year. In average, 60% of the campaigns for the theater segment are successful, however, in May it increases to 67% followed by June with 65% chances to have a successful campaign.
 
 ![image](https://user-images.githubusercontent.com/86136535/123527163-49bff280-d6ab-11eb-8b99-4c5bdb555db1.png)
-
-
-
-
-
-
-
-
 
 
 ### Analysis of Outcomes Based on Goals
@@ -52,18 +44,18 @@ Another point of discussion is the location where this play will be launched. Fo
 
 ## Results
 
-What are two conclusions you can draw about the Outcomes based on Launch Date?
+**What are two conclusions you can draw about the Outcomes based on Launch Date?**
 
 •	The average success rate for theater campaigns is 61% based on the last 8 years. 
 
 •	The most successful months to launch a campaign are April, May and June.
 
 
-What can you conclude about the Outcomes based on Goals?
+**What can you conclude about the Outcomes based on Goals?**
 
 The success rate for theater campaigns is 54% (within the range of $10,000 and $14,999), campaigns under $5,000 have almost a 25% chance of being successful. 
 
-What are some limitations of this dataset?
+**What are some limitations of this dataset?**
 
 The dataset had the following limitations:
 
@@ -73,7 +65,7 @@ The dataset had the following limitations:
 
 •	Dataset ends in 2017 and there is no recent data – Considering the current climate more recent data would increase accuracy of the analysis.
 
- What are some other possible tables and/or graphs that we could create?
+ **What are some other possible tables and/or graphs that we could create?**
  
 Number of backers per category, number of campaigns by year, number of plays by year, number of backers per country, and number of plays per country.
 
