@@ -25,15 +25,16 @@ Having access to this information could be able a touchstone for the campaign an
 
 The analysis shows that the number of successful campaigns for theater are higher when launched in April, May and June when compared with the remaining months of the year. In average, 60% of the campaigns for the theater segment are successful, however, in May it increases to 67% followed by June with 65% chances to have a successful campaign.
 
-![image](https://user-images.githubusercontent.com/86136535/123527163-49bff280-d6ab-11eb-8b99-4c5bdb555db1.png)
+![image](https://user-images.githubusercontent.com/86136535/124676814-3c65ed80-de8d-11eb-93e2-0af625f9cef5.png)
+
 
 
 ### Analysis of Outcomes Based on Goals
 
 The analysis shows that overall campaigns between $ 5,000 and $, 9,999 are 55% successful and campaigns between $ 10,000 and $ 14,999 are 54% successful.  As the proposed campaign has a goal of $10,000, a second analysis was created based on the value of the campaign. 
-Data shows the average success for plays pledging $ 10,000 is 53%, the chances of success increase for the months of April, May and June. Although the months of August and September present a high percentage of success the data observed in other parameters does not support this conclusion (ex. bakers count)
+Data shows the average success for plays pledging $ 10,000 is 53%, the chances of success increase for the months of May and June. Although the months of August and September present a high percentage of success the data observed in other parameters does not support this conclusion (ex. bakers count)
 
-![image](https://user-images.githubusercontent.com/86136535/123527308-690b4f80-d6ac-11eb-895e-5d63519de966.png)
+![image](https://user-images.githubusercontent.com/86136535/124676886-5b647f80-de8d-11eb-856f-13d8b157e59f.png)
 
 ### Challenges and Difficulties Encountered
 
